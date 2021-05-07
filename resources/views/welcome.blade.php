@@ -21,7 +21,7 @@
         </style>
     </head>
     <body class="antialiased">
-        <h1> mi enlace</h1>
+        <h1> MODIFICADO HOY 7 DE MAYO</h1>
         
          {{Btn::a('about','Acerca de y asabes ...')}}
          {{Btn::button('peru')}}
