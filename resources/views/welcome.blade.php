@@ -21,9 +21,9 @@
         </style>
     </head>
     <body class="antialiased">
-        <h1> MODIFICADO HOY 7 DE MAYO</h1>
+        <h1> MODIFICADO HOY 7 DE MAYO VIVICHO</h1>
         
-         {{Btn::a('about','Acerca de y asabes ...')}}
+         {{Btn::a('about','Acerca de ya sabes ...')}}
          {{Btn::button('peru')}}
 
             
