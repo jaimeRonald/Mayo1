@@ -21,7 +21,7 @@
         </style>
     </head>
     <body class="antialiased">
-        <h1> MODIFICADO  13 de mayo actual aleticoN</h1>
+        <h1> MODIFICADO  13 de may barza triste</h1>
         
          {{Btn::a('about','Acerca de y asabes ...')}}
          {{Btn::button('peru')}}
